@@ -1,0 +1,171 @@
+.rojo{
+	width: 200px;
+	height: 100px;
+	background-color: #ee3e64;
+	position: static;
+
+}
+
+.azul{
+	width: 200px;
+	height: 100px;
+	background-color: #44accf;
+	position: static;	
+}
+
+.verde{
+	width: 200px;
+	height: 100px;
+	background-color: #b7d84b;
+	position: static;
+}
+
+.rojo1{
+	width: 200px;
+	height: 100px;
+	background-color: #ee3e64;
+	position: relative;
+
+}
+
+.azul1{
+	width: 200px;
+	height: 100px;
+	background-color: #44accf;
+	position: relative;
+	left: 200px;	
+}
+
+.verde1{
+	width: 200px;
+	height: 100px;
+	background-color: #b7d84b;
+	position: relative;
+}
+
+.rojo2{
+	width: 200px;
+	height: 100px;
+	background-color: #ee3e64;
+	position: relative;
+
+}
+
+.azul2{
+	width: 100px;
+	height: 50px;
+	background-color: #44accf;
+	position: relative;
+	margin: auto;
+}
+
+.verde2{
+	width: 200px;
+	height: 100px;
+	background-color: #b7d84b;
+	position: relative;
+}
+
+.rojo3{
+	width: 200px;
+	height: 100px;
+	background-color: #ee3e64;
+	position: relative;
+	display: inline-block;
+
+}
+
+.azul3{
+	width: 200px;
+	height: 100px;
+	background-color: #44accf;
+	position: relative;
+	display: inline-block;	
+}
+
+.verde3{
+	width: 200px;
+	height: 100px;
+	background-color: #b7d84b;
+	position: relative;
+}
+
+
+.div{
+	width: 1100px;
+	height: 620px;
+	border:2px solid gray;
+	margin: auto;
+}
+
+.index{
+	position: absolute;
+	z-index: 1;
+}
+
+.rojo4{
+	width: 200px;
+	height: 100px;
+	background-color: #ee3e64;
+	top: 0;
+	left: 0;
+	position: absolute;
+}
+
+
+.azul4{
+	width: 200px;
+	height: 100px;
+	background-color: #44accf;
+	right: 0;
+	top: 0;
+	position: absolute;	
+}
+
+.verde4{
+	width: 200px;
+	height: 100px;
+	background-color: #b7d84b;
+	left: 0;
+	bottom: 0;
+	position: absolute;
+}
+
+.amarillo4{
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+	right: 0;
+	bottom: 0;
+	position: absolute;
+}
+
+.rojo5{
+	width: 200px;
+	height: 100px;
+	background-color: #ee3e64;
+	position: relative;
+}
+
+
+.azul5{
+	width: 200px;
+	height: 100px;
+	background-color: #44accf;
+	margin-left: 200px;
+	position: absolute;	
+}
+
+.verde5{
+	width: 200px;
+	height: 100px;
+	background-color: #b7d84b;
+	position: relative;
+}
+
+.amarillo5{
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+	position: relative;
+}
